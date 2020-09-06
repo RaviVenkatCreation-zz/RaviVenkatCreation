@@ -1,8 +1,6 @@
 # Hi, I'm VenkataSubramanian - Full Stack Developer
 
-[ProfileImage]
-
-
-
-
-[ProfileImage]: https://qph.fs.quoracdn.net/main-thumb-780453497-200-rpvdyiwpxapbwlindmddjgmxnkhmalre.jpeg
+🎓 - Graduated in B.Sc Computer Science
+🔨 - Loves building apps and designing user interfaces.
+✍ - Writer in Quora
+👷‍- System Programmer in Cognizant
