@@ -3,13 +3,13 @@
 
 - 🎓&nbsp;&nbsp;Graduated in **B.Sc Computer Science**
 
-- 🔨&nbsp;&nbsp;Loves building **apps** and designing **user interfaces**.
+- 🔨&nbsp;&nbsp;Interested in building real-time **apps** and designing **user interfaces**.
 
 - ✍&nbsp;&nbsp;Writer in **Quora**
 
 - 💻&nbsp;&nbsp;**System Programmer** in **Cognizant**
 
-- 📩&nbsp;&nbsp;**ravivenkatcreation@gmail.com**
+- 📩&nbsp;&nbsp;Available @ **ravivenkatcreation@gmail.com**
 
 # Skills
 
