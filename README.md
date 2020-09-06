@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm VenkataSubramanian</h1>
 <h3 align="center">Full Stack Developer</h3>
 
@@ -29,19 +27,21 @@
 </p>
 
 # Connect with me on
-Facebook, Instagram, LinkedIn, Quora
 <p align="center">
   
-  <a href="https://linkedin.com/in/ambroise-dhenain" target="blank">
+  <a href="" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/gmail.svg" alt="2391795" height="30" width="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/Ravi.Venkat.Editor" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/facebook.svg" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ambroise-dhenain" target="blank">
+  <a href="https://www.instagram.com/ravi_venkat_developer/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/instagram.svg" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@vadorequest" target="blank">
+  <a href="https://www.linkedin.com/in/ravi-venkat/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/linkedin.svg" alt="@vadorequest" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/2391795" target="blank">
+  <a href="https://www.quora.com/profile/%E0%AE%B0%E0%AE%B5%E0%AE%BF-%E0%AE%B5%E0%AF%86%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%9F%E0%AF%8D-Ravi-Venkat" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/quora.svg" alt="2391795" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
 </p>
