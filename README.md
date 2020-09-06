@@ -9,7 +9,7 @@
 
 - 💻&nbsp;&nbsp;**System Programmer** in **Cognizant**
 
-- 📩&nbsp;&nbsp;Available @ **ravivenkatcreation@gmail.com**
+- 📩&nbsp;&nbsp;Catch me @**ravivenkatcreation@gmail.com**
 
 # Skills
 
