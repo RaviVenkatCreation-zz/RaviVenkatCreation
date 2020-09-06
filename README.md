@@ -9,7 +9,7 @@
 
 - 💻&nbsp;&nbsp;**System Programmer** in **Cognizant**
 
-- 📫&nbsp;&nbsp;How to reach me **Twitter/LinkedIn** or open a Github issue [here](https://github.com/Vadorequest/Vadorequest/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
+- 📩&nbsp;&nbsp;**ravivenkatcreation@gmail.com**
 
 # Skills
 
