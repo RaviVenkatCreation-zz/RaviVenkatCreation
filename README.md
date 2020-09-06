@@ -29,21 +29,19 @@
 </p>
 
 # Connect with me on
-
+Facebook, Instagram, LinkedIn, Quora
 <p align="center">
-  <a href="https://dev.to/vadorequest" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vadorequest" height="30" width="30" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/vadorequest" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vadorequest" height="30" width="30" />
+  
+  <a href="https://linkedin.com/in/ambroise-dhenain" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/facebook.svg" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/ambroise-dhenain" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ambroise-dhenain" height="30" width="30" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/2391795" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="2391795" height="30" width="30" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/instagram.svg" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@vadorequest" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vadorequest" height="30" width="30" />
-  </a>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/linkedin.svg" alt="@vadorequest" height="30" width="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/2391795" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/quora.svg" alt="2391795" height="30" width="30" />
+  </a>&nbsp;&nbsp;&nbsp;
 </p>
