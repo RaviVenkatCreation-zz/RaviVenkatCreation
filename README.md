@@ -1,4 +1,6 @@
-### Hi, I'm VenkataSubramanian - Full Stack Developer
+# Hi, I'm VenkataSubramanian - Full Stack Developer
+
+[![bg][ProfileImage]]
 
 <!--
 **Ravi-Venkat-Developer/Ravi-Venkat-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[ProfileImage]: https://qph.fs.quoracdn.net/main-thumb-780453497-200-rpvdyiwpxapbwlindmddjgmxnkhmalre.jpeg
