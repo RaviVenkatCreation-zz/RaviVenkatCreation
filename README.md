@@ -1,6 +1,6 @@
 # Hi, I'm VenkataSubramanian - Full Stack Developer
 
-[![bg][ProfileImage]]
+![bg][ProfileImage]
 
 <!--
 **Ravi-Venkat-Developer/Ravi-Venkat-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
