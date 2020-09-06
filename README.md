@@ -28,10 +28,10 @@
 
 # Connect with me on
 <p align="center">
-  <a href="https://www.facebook.com/Ravi.Venkat.Code" target="blank">
+  <a href="https://www.facebook.com/RaviVenkatCode/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/facebook.svg" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/ravi_venkat_code/" target="blank">
+  <a href="https://www.instagram.com/ravivenkatcode/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/instagram.svg" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ravi-venkat/" target="blank">
