@@ -28,11 +28,7 @@
 
 # Connect with me on
 <p align="center">
-  
-  <a href="" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/gmail.svg" alt="2391795" height="30" width="30" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/Ravi.Venkat.Editor" target="blank">
+  <a href="https://www.facebook.com/Ravi.Venkat.Code" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/facebook.svg" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/ravi_venkat_developer/" target="blank">
