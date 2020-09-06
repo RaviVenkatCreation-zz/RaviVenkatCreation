@@ -35,7 +35,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/instagram.svg" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ravi-venkat/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/linkedin.svg" alt="@vadorequest" height="30" width="30" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/linkedin.svg" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.quora.com/profile/%E0%AE%B0%E0%AE%B5%E0%AE%BF-%E0%AE%B5%E0%AF%86%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%9F%E0%AF%8D-Ravi-Venkat" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/quora.svg" alt="2391795" height="30" width="30" />
