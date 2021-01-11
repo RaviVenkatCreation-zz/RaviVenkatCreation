@@ -8,9 +8,18 @@
 
 # Computer Skills
 
+<h3>Languages:</h3>
 <p align="center">
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="css3" src="https://img.shields.io/badge/-CSS-264de4?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-f67317?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="csharp" src="https://img.shields.io/badge/C%20Sharp-7F3089?style=flat-square&logo=c%20sharp&logoColor=white" />
+  <img alt="python" src="https://img.shields.io/badge/Python-376F9F?style=flat-square&logo=python&logoColor=white" />
 </p>
+<h3>Frameworks:</h3>
+<p align="center">
+  <img alt="html5" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  </p>
 
 # Find me on
 <p align="center">
