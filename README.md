@@ -59,10 +59,10 @@
 
 # Find me on:
 
-<a href="https://www.facebook.com/RaviVenkatCode/" target="blank">
+<a href="https://www.facebook.com/ravivenkatcreation" target="blank">
 <img alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/ravivenkatcode/" target="blank">
+<a href="https://www.instagram.com/ravivenkatcreation/" target="blank">
 <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/ravi-venkat/" target="blank">
@@ -71,6 +71,6 @@
 <a href="https://www.quora.com/profile/%E0%AE%B0%E0%AE%B5%E0%AE%BF-%E0%AE%B5%E0%AF%86%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%9F%E0%AF%8D-Ravi-Venkat" target="blank">
 <img alt="quora" src="https://img.shields.io/badge/Quora-B92B27?style=flat-square&logo=Quora&logoColor=white" />
 </a>
-<a href="https://www.quora.com/profile/%E0%AE%B0%E0%AE%B5%E0%AE%BF-%E0%AE%B5%E0%AF%86%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%9F%E0%AF%8D-Ravi-Venkat" target="blank">
+<a href="https://www.youtube.com/channel/UCUmWAMfLPO3Q7v3w6yEaruQ" target="blank">
 <img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white" />
 </a>
