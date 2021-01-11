@@ -18,7 +18,22 @@
 </p>
 <h3>Frameworks:</h3>
 <p align="center">
-  <img alt="html5" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/CORE-5C2D91?style=flat-square&logo=.net&logoColor=white" />
+  </p>
+
+<h3>Libraries:</h3>
+<p align="center">
+  <img alt="html5" src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  </p>
+<h3>Databases:</h3>
+<p align="center">
+  <img alt="html5" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google%20cloud&logoColor=white" />
   </p>
 
 # Find me on
