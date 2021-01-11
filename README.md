@@ -10,8 +10,7 @@
 # Computer Skills
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="bootstrap" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="bootstrap" width="50" height="50"/>
+  ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 </p>
 
 # Find me on
