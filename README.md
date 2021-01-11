@@ -35,6 +35,18 @@
   <img alt="html5" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google%20cloud&logoColor=white" />
   </p>
+  
+<h3>Softwares:</h3>
+<p align="center">
+  
+  <img alt="html5" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white" />
+    <img alt="html5" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white" />
+      <img alt="html5" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=flat-square&logo=Adobe%20InDesign&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat-square&logo=Adobe%20Lightroom&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white" />
+  </p>
 
 # Find me on
 <p align="center">
