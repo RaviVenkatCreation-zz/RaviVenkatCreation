@@ -51,11 +51,11 @@
 
 # Github Statistics:
 
-![RaviVenkat Github Stats Card](https://github-readme-stats.vercel.app/api?username=Ravi-Venkat-Developer&count_private=true&show_icons=true)
+![RaviVenkat Github Stats Card](https://github-readme-stats.vercel.app/api?username=RaviVenkatCreation&count_private=true&show_icons=true)
 <br/>
-![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Venkat-Developer&repo=Ravi-Venkat-Developer)
+![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=RaviVenkatCreation&repo=RaviVenkatCreation)
 <br/>
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi-Venkat-Developer&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=RaviVenkatCreation&layout=compact)
 
 # Find me on:
 
