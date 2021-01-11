@@ -1,4 +1,3 @@
-<html>
 <h1 align="center">Hi 👋 Guys, I'm RaviVenkat</h1>
 <h3 align="center">Developer, Designer, and YouTube Creator <a href="https://www.youtube.com/channel/UCUmWAMfLPO3Q7v3w6yEaruQ">@CodeEngineer</a></h3>
 
@@ -10,7 +9,7 @@
 # Computer Skills
 
 <p align="center">
-  ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 </p>
 
 # Find me on
@@ -28,4 +27,3 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/quora.svg" alt="2391795" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
 </p>
-</html>
