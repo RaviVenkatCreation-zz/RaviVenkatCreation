@@ -3,8 +3,8 @@
 
 # About Myself:
 
-<p>I have completed <b>B.Sc</b> in <b>Computer Science :mortar_board:</b> and have been <b>working</b> as a <b>developer :keyboard:</b> at <b>Cognizant</b>. Apart from this, I love :heart: to create <b>content</b> and <b>helping people :handshake:</b>on <a href="https://www.instagram.com/ravivenkatcreation/">Instagram</a>, <a href="https://www.quora.com/profile/%E0%AE%B0%E0%AE%B5%E0%AE%BF-%E0%AE%B5%E0%AF%86%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%9F%E0%AF%8D-Ravi-Venkat">Quora</a>, and <a href="https://www.youtube.com/channel/UCUmWAMfLPO3Q7v3w6yEaruQ">YouTube</a> to learn <b>programming :computer:</b> related stuff.</p>
-<p><b>(Focused on clean code and :heart: data structures and algorithms).</b></p>
+<p>I have completed <b>B.Sc</b> in <b>Computer Science :mortar_board:</b> and have been <b>working</b> as a <b>developer :keyboard:</b> at <b>Cognizant</b>. Apart from this, I :heart: to create <b>content</b> and <b>helping people :handshake:</b>on <a href="https://www.instagram.com/ravivenkatcreation/">Instagram</a>, <a href="https://www.quora.com/profile/%E0%AE%B0%E0%AE%B5%E0%AE%BF-%E0%AE%B5%E0%AF%86%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%9F%E0%AF%8D-Ravi-Venkat">Quora</a>, and <a href="https://www.youtube.com/channel/UCUmWAMfLPO3Q7v3w6yEaruQ">YouTube</a> to learn <b>programming :computer:</b> related stuff.</p>
+<p><b>(Focused on clean code :computer_mouse: and :heart: data structures and algorithms).</b></p>
 
 # Computer Skills:
 
