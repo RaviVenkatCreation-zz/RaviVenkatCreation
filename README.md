@@ -47,6 +47,10 @@
   <img alt="html5" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white" />
   </p>
+  
+
+# Github Statistics:
+
 
 # Find me on:
 <p>
