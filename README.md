@@ -9,7 +9,7 @@
 # Computer Skills:
 
 <h3>Languages:</h3>
-<p align="center">
+<p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS-264de4?style=flat-square&logo=css3&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-f67317?style=flat-square&logo=javascript&logoColor=white" />
@@ -17,19 +17,19 @@
   <img alt="python" src="https://img.shields.io/badge/Python-376F9F?style=flat-square&logo=python&logoColor=white" />
 </p>
 <h3>Frameworks:</h3>
-<p align="center">
+<p>
   <img alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/CORE-5C2D91?style=flat-square&logo=.net&logoColor=white" />
   </p>
 
 <h3>Libraries:</h3>
-<p align="center">
+<p>
   <img alt="html5" src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   </p>
 <h3>Databases:</h3>
-<p align="center">
+<p>
   <img alt="html5" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
@@ -37,7 +37,7 @@
   </p>
   
 <h3>Softwares:</h3>
-<p align="center">
+<p>
   
   <img alt="html5" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white" />
     <img alt="html5" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white" />
@@ -49,7 +49,7 @@
   </p>
 
 # Find me on:
-<p align="center">
+<p>
   <a href="https://www.facebook.com/RaviVenkatCode/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/facebook.svg" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
