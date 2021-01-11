@@ -1,7 +1,4 @@
 <html>
-  <header>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/devicon.min.css">
-  </header>
 <h1 align="center">Hi 👋 Guys, I'm RaviVenkat</h1>
 <h3 align="center">Developer, Designer, and YouTube Creator <a href="https://www.youtube.com/channel/UCUmWAMfLPO3Q7v3w6yEaruQ">@CodeEngineer</a></h3>
 
@@ -13,7 +10,8 @@
 # Computer Skills
 
 <p align="center">
-  <i class="devicon-html5-plain-wordmark colored"></i>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="bootstrap" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="bootstrap" width="50" height="50"/>
 </p>
 
 # Find me on
